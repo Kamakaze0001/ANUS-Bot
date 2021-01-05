@@ -1,0 +1,1 @@
+exports.stdThrow = e => {throw e}
