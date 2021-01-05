@@ -1,3 +1,6 @@
+# Hide my delicious secrets
+.env
+
 # Logs
 logs
 *.log
