@@ -1,27 +1,10 @@
-Welcome to the Glitch BETA
-=========================
+<h1>This is ANUS</h1>
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+Anus was originally made to keep order in my University server. 
+A couple years on, he's gaining independence and has a part time job.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
-
-\ ゜o゜)ノ
+I'm trying to make his code as neat as possible so that, 
+even though he's rough around the edges, I can show him
+off to my friends and/or future employers.
+<hr>
+Feel free to <a href="https://discord.com/api/oauth2/authorize?client_id=440705107135561768&permissions=1073817665&scope=bot">add him to your server.</a>
